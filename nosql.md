@@ -88,6 +88,7 @@ Cassandra est le deuxième système de gestion de base de données le plus utili
   2. **Contrôle d'accès** : le contrôle de l'accès des beans gérés définit les privilèges d'accès aux informations de beans gérés et les droits d'exécution des opérations de beans gérés.
   3. **Transfert sécurisé** : le transfert entre le client et le serveur JMX peut être sécurisé à l'aide du protocole TLS/SSL.
 \
+\
 &nbsp;
 En bref, JMX est une API qui permet de surveiller et gérer des ressources.
 \
