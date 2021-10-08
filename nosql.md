@@ -1,4 +1,4 @@
-#NoSQL
+# NoSQL
 Écrit par Jebira Sélim, Thonus Cedric & Potaznik Jérémie
 
 ## Histoire du NoSQL 
@@ -81,12 +81,13 @@ Ces systèmes de sécurité garantissent un contrôle total sur l'accès aux don
 Cassandra est le deuxième système de gestion de base de données le plus utilisé après son homologue MongoDB, lui aussi possède des systèmes de sécurité telles que :
 
 - Cryptage client à nœud, qui inclut une forme de communication sécurisée et optionnelle d'un ordinateur client à un cluster de bases de données (SSL). Ce qui garantit l'intégrité des données.
-
+\
 &nbsp;
 - La technologie JMX (Java Management Extensions) est composé de 3 parties:
   1. **Authentification** : le client distant doit être authentifié dans le serveur.
   2. **Contrôle d'accès** : le contrôle de l'accès des beans gérés définit les privilèges d'accès aux informations de beans gérés et les droits d'exécution des opérations de beans gérés.
   3. **Transfert sécurisé** : le transfert entre le client et le serveur JMX peut être sécurisé à l'aide du protocole TLS/SSL.
+\
 &nbsp;
 En bref, JMX est une API qui permet de surveiller et gérer des ressources.
 \
